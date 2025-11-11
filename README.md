@@ -1,5 +1,5 @@
-Duoc UC
-🧠 Evaluación Sumativa 1 – Desarrollo Orientado a Objetos I
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 👤 Autor del proyecto
 Nombre completo: Felipe esteban Borbarán Diaz
 Sección: 002A
@@ -35,3 +35,4 @@ Sigue las instrucciones que aparecerán en la consola para interactuar con el si
 Repositorio GitHub: https://github.com/Borazprom/semana3pooduoc Fecha de entrega: [10/11/2025]
 
 © Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Sumativa 1 
+
