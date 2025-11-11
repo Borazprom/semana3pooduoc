@@ -2,7 +2,7 @@
 # 🧠 Evaluación Sumativa – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
-- **Nombre completo:** Felipe esteban Borbarán Diaz
+- **Nombre completo:** Felipe Esteban Borbarán Diaz
 - **Sección:**  002A
 - **Carrera:** Analista programador computacional
 - **Sede:**  Online
@@ -25,10 +25,7 @@ El proyecto fue estructurado en múltiples clases y paquetes, fomentando la modu
 ```plaintext
 📁 src/
 ├── app/          # Clase principal con el método main que inicia la aplicación
-├── model/        # Clases de dominio (Salmon, Piscina, Empleado, Alimentacion, Produccion, etc.)
-├── data/         # Clases encargadas de cargar y guardar información en archivos .txt
-├── utils/        # Clases con funciones auxiliares, validaciones y manejo de datos
-└── interfaces/   # Interfaces implementadas por las clases (por ejemplo: Gestionable, Mostrable, etc.)
+├── model/        # Clases de dominio (Direccion, Persona, Empleado)
 ````
 
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
@@ -53,6 +50,7 @@ git clone https://github.com/Borazprom/semana3pooduoc
 **Fecha de entrega:** 10/11/2025
 
 © Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Sumativa 1 
+
 
 
 
